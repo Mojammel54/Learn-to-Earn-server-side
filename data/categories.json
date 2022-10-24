@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Big Data Analytics",
+        "urlimg": "https://realtoughcandy.com/wp-content/uploads/2021/04/big-data-books.jpg",
+        "details": "Most companies have already embarked upon a big-data journey — whether they realize it or not. For many industrial companies, big data manifests itself as data from the Industrial Internet of Things (IIoT). The IIoT connects intelligent physical entities, such as sensors, devices, machines, assets, and products, to each other, Internet services, and applications. The IIoT is built upon current and emerging technologies, such as mobile and intelligent devices, wired and wireless networks, cloud computing, analytics, and visualization tools.",
+        "price": "30"
+    },
+    {
+        "id": "2",
+        "name": "Artificial Intelligence (AI)",
+        "urlimg": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-72357-6",
+        "details": "The digital revolution has already changed how people live, work, and communicate. And it’s only just getting started. But the same technologies that have the potential to help billions of people live happier, healthier, and more productive lives are also creating new challenges for citizens and governments around the world. From election meddling to data breaches and cyberattacks, recent events have shown that technology is changing how we think about privacy, national security, and maybe even democracy itself. In this project, we examine challenges in five key areas that will shape the future of the digital age: justice system, impact on democracy, global security and international conflict, the impact of automations and AI on the jobs marketplace, identity, and privacy..",
+        "price": "20"
+    },
+    {
+        "id": "3",
+        "name": "Machine Learning (ML)",
+        "urlimg": "https://www.appcoda.com/machine-learning-coreml/i/ml-book-cover.png",
+        "details": "Machine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, and to uncover key insights in data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics. As big data continues to expand and grow, the market demand for data scientists will increase. They will be required to help identify the most relevant business questions and the data to answer them.",
+        "price": "40"
+    },
+    {
+        "id": "4",
+        "name": "Natural Language Processing (NLP)",
+        "urlimg": "https://dezyre.gumlet.io/images/blog/best-nlp-books/image_797647349131634809050834.png?w=750&dpr=1.4",
+        "details": "NLP drives computer programs that translate text from one language to another, respond to spoken commands, and summarize large volumes of text rapidly—even in real time. There’s a good chance you’ve interacted with NLP in the form of voice-operated GPS systems, digital assistants, speech-to-text dictation software, customer service chatbots, and other consumer conveniences. But NLP also plays a growing role in enterprise solutions that help streamline business operations, increase employee productivity, and simplify mission-critical business processes.",
+        "price": "35"
+    },
+    {
+        "id": "5",
+        "name": "Digital Image Processing",
+        "urlimg": "https://images-na.ssl-images-amazon.com/images/I/51SNiDGflNL._AC_UL600_SR600,600_.jpg",
+        "details": "Digital image processing deals with manipulation of digital images through a digital computer. It is a subfield of signals and systems but focus particularly on images. DIP focuses on developing a computer system that is able to perform processing on an image. The input of that system is a digital image and the system process that image using efficient algorithms, and gives an image as an output. The most common example is Adobe Photoshop. It is one of the widely used application for processing digital images.",
+        "price": "45"
+    },
+    {
+        "id": "6",
+        "name": "Cryptography",
+        "urlimg": "https://m.media-amazon.com/images/I/91leqBbiQAL.jpg",
+        "details": "Cryptography is associated with the process of converting ordinary plain text into unintelligible text and vice-versa. It is a method of storing and transmitting data in a particular form so that only those for whom it is intended can read and process it. Cryptography not only protects data from theft or alteration, but can also be used for user authentication.Earlier cryptography was effectively synonymous with encryption but nowadays cryptography is mainly based on mathematical theory and computer science practice.",
+        "price": "50"
+    }
+]
