@@ -24,6 +24,16 @@ app.get('/course', (req, res) => {
 
 });
 
+
+app.get('/course/:id', (req, res) => {
+    const id = (req.params.id)
+
+    const selectedItems = course.find(n => n.id === id)
+
+    res.send(selectedItems)
+
+})
+
 app.listen(port, () => {
 
     console.log('tourist  server running on port', port)
